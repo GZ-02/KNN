@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SPS_KNN</string>
+    <string name="Activity">Still or Moving?</string>
+    <string name="cell1">Cell A</string>
+    <string name="cell2">Cell B</string>
+    <string name="cell3">Cell C</string>
+    <string name="cell4">Cell D</string>
+    <string name="room">Room?</string>
+</resources>
